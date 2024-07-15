@@ -1,0 +1,177 @@
+inherited FrmLogin_NmXhdpiPh: TFrmLogin_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited TabControl1: TTabControl
+    Size.Width = 400.000000000000000000
+    Size.Height = 615.000000000000000000
+    Sizes = (
+      400s
+      566s
+      400s
+      566s
+      400s
+      566s)
+    inherited TabLogin: TTabItem
+      Size.Width = 133.000000000000000000
+      ExplicitSize.cx = 338.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Rectangle1: TRectangle
+        Size.Width = 400.000000000000000000
+        Size.Height = 566.000000000000000000
+        inherited LytDown: TLayout
+          Size.Width = 400.000000000000000000
+          inherited Layout3: TLayout
+            Size.Width = 400.000000000000000000
+            inherited Image1: TImage
+              MultiResBitmap.Height = 1280
+              MultiResBitmap.Width = 1280
+              Size.Width = 400.000000000000000000
+            end
+          end
+          inherited RctSenha: TRectangle
+            Size.Width = 400.000000000000000000
+            inherited LblSenha: TLabel
+              Size.Width = 400.000000000000000000
+            end
+          end
+          inherited RctConta: TRectangle
+            Size.Width = 400.000000000000000000
+          end
+          inherited RctFacebook: TRectangle
+            Size.Width = 400.000000000000000000
+          end
+          inherited RctOu: TRectangle
+            Size.Width = 400.000000000000000000
+          end
+          inherited Layout18: TLayout
+            Size.Width = 400.000000000000000000
+            inherited Layout19: TLayout
+              inherited BtnEnter: TSpeedButton
+                OnClick = nil
+              end
+            end
+          end
+          inherited Layout16: TLayout
+            Size.Width = 400.000000000000000000
+          end
+          inherited Layout2: TLayout
+            Size.Width = 400.000000000000000000
+          end
+        end
+      end
+    end
+    inherited TabConfiguracao: TTabItem
+      Size.Width = 133.000000000000000000
+      ExplicitSize.cx = 86.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Rectangle10: TRectangle
+        Size.Width = 400.000000000000000000
+        Size.Height = 566.000000000000000000
+        inherited Layout7: TLayout
+          Size.Width = 400.000000000000000000
+          inherited Rectangle3: TRectangle
+            Size.Width = 400.000000000000000000
+            inherited Layout8: TLayout
+              Position.X = 358.000000000000000000
+            end
+          end
+        end
+        inherited Layout14: TLayout
+          Position.Y = 515.000000000000000000
+          Size.Width = 400.000000000000000000
+          inherited Rectangle14: TRectangle
+            Size.Width = 400.000000000000000000
+            inherited Layout15: TLayout
+              Size.Width = 400.000000000000000000
+              inherited Rectangle15: TRectangle
+                inherited SpeedButton5: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle35: TRectangle
+                inherited SpeedButton6: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle36: TRectangle
+                inherited SpeedButton15: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle37: TRectangle
+                inherited SpeedButton16: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle38: TRectangle
+                inherited SpeedButton17: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+            end
+          end
+        end
+        inherited Layout28: TLayout
+          Size.Width = 400.000000000000000000
+        end
+        inherited Layout30: TLayout
+          Size.Width = 400.000000000000000000
+        end
+      end
+    end
+    inherited TabAgenda: TTabItem
+      Size.Width = 134.000000000000000000
+      ExplicitSize.cx = 56.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Rectangle4: TRectangle
+        Size.Width = 400.000000000000000000
+        Size.Height = 566.000000000000000000
+        inherited Layout10: TLayout
+          Position.Y = 515.000000000000000000
+          Size.Width = 400.000000000000000000
+          inherited Rectangle26: TRectangle
+            Size.Width = 400.000000000000000000
+            inherited Layout22: TLayout
+              Size.Width = 400.000000000000000000
+              inherited Rectangle27: TRectangle
+                inherited SpeedButton10: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle28: TRectangle
+                inherited SpeedButton11: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle29: TRectangle
+                inherited SpeedButton12: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle30: TRectangle
+                inherited SpeedButton13: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+              inherited Rectangle31: TRectangle
+                inherited SpeedButton23: TSpeedButton
+                  Size.Height = 30.000000000000000000
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          Size.Width = 400.000000000000000000
+          inherited Rectangle23: TRectangle
+            Size.Width = 400.000000000000000000
+            inherited Layout9: TLayout
+              Position.X = 358.000000000000000000
+            end
+          end
+        end
+      end
+    end
+  end
+end
